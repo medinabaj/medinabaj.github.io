@@ -1,5 +1,5 @@
 ---
-title: "📚 Bachelor Thesis -On Value at Risk Prediction Using Quantile Regression Methods "
+title: "🎓 Bachelor Thesis - On Value at Risk Prediction Using Quantile Regression Methods "
 layout: post
 date: 2023-07-24
 tag:
@@ -18,7 +18,7 @@ author: medinabajramovic
 externalLink: false
 ---
 
-# 📚 Bachelor Thesis -On Value at Risk Prediction Using Quantile Regression Methods 
+# 🎓 Bachelor Thesis -On Value at Risk Prediction Using Quantile Regression Methods 
 **Institution:** Ludwig-Maximilians-Universität München, Munich, Germany 📍
 **Duration:** June 2022 - September 2022 ⏳
 
