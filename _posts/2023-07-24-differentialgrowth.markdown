@@ -25,6 +25,6 @@
     <h2>🤖 On Gaussian Processes 🤖</h2>
     <p>Of note, Gaussian Processes are a key component of our analysis. Gaussian Processes (GPs) are a powerful supervised learning method 🎓. In a nutshell, they allow us to define a prior over functions and use the observed data to update our prior beliefs about the probable outputs for new inputs. GPs are particularly useful for regression problems, and excel when you have prior knowledge about the function's characteristics. 👀</p>
     <h2>🎉 Coming Soon! 🎉</h2>
-    <p>I'm thrilled to announce that the R package is set to be available in November 2023! 🗓 Stay tuned for this user-friendly and powerful tool that is sure to revolutionize the way we conduct differential growth curve analysis. 🚀</p>
+    <p>I'm thrilled to announce that the R package is set to be available in November 2023! 🗓 Stay tuned for this user-friendly and powerful tool that is sure to helpful the way we conduct differential growth curve analysis. 🚀</p>
 </body>
 </html>
