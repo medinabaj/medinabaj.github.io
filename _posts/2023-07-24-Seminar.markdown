@@ -1,5 +1,5 @@
 ---
-title: "🔬 Sensitivity Analysis in Clinical Research: A Seminar Exploration 📚"
+title: "🔬 Sensitivity Analysis in Clinical Research: A Seminar Exploration"
 layout: post
 date: 2023-07-24
 tag:
@@ -19,7 +19,7 @@ author: medinabajramovic
 externalLink: false
 ---
 
-# 🎓 Sensitivity Analysis in Clinical Research: A Seminar Paper 🖊️
+# 🎓 Sensitivity Analysis in Clinical Research: A Seminar Paper 
 **Institution:** Institut für Medizinische Informationsverarbeitung Biometrie und Epidemiologie (IBE), LMU Munich, Bavaria, Germany 📍
 **Duration:** April 2022 - September 2022 ⏳
 
@@ -27,7 +27,7 @@ externalLink: false
 
 Clinical research, despite its significance, has faced credibility issues recently due to conflicts of interest, incorrect interpretations, and flawed exploratory analysis. This has led to incorrect study outcomes and excessive medical waste. Sensitivity analysis is one potential solution to reduce medical waste and restore credibility to clinical studies. 
 
-The core of sensitivity analysis is to determine how variations in methodology, models, unmeasured variable values, or assumptions can affect the outcomes. This helps in recognizing outcomes heavily dependent on unsupported assumptions, and in assessing if any changes in these assumptions lead to alterations in the final interpretations or results 🔄. 
+The core of sensitivity analysis is to determine how variations in methodology, models, unmeasured variable values, or assumptions can affect the outcomes. This helps in recognizing outcomes heavily dependent on unsupported assumptions, and in assessing if any changes in these assumptions lead to alterations in the final interpretations or results. 
 
 ## 🎯 Seminar Approach: Diving into the Depths of Sensitivity Analysis 
 
@@ -41,4 +41,4 @@ Through the seminar paper, I evaluated several studies, scrutinizing whether sen
 
 ## 📌 Reflection and Takeaways 
 
-This seminar has been a rewarding journey, deepening my understanding of sensitivity analysis in clinical research. The knowledge and insights gained through the seminar paper have been invaluable. Stay tuned for more academic explorations and learnings! 🎉🔬
+This seminar has been a rewarding journey, deepening my understanding of sensitivity analysis in clinical research. The knowledge and insights gained through the seminar paper have been invaluable. Stay tuned for more academic explorations and learnings! 🎉
