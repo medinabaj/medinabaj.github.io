@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Next Generation Healthcare: A Deep Learning Approach</title>
+    <style>
+        .highlight {
+            color: #ff6347; /* Tomato color for highlights */
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <h1>🎓 Next Generation Healthcare: A Deep Learning Approach 💻</h1>
+    <p><strong>Institution:</strong> Technical University of Munich, Munich, Bavaria, Germany 📍</p>
+    <p><strong>Duration:</strong> October 2022 - March 2023 (6 months) ⏳</p>
+
+    <h2>🌐 Project Background 🌐</h2>
+    <p>Diabetes is a rapidly growing health crisis affecting approximately 8.5 million adults in Germany in 2022, with forecasts predicting a substantial increase in the coming decades. Diabetes complications such as macrovascular events, including stroke and myocardial infarction, not only influence the quality and length of life but also have a profound economic impact on healthcare systems and Germany's statutory health insurance. 💔</p>
+    <p>Recognizing this challenge, targeted screening for patients at high risk of complications can prove more effective and cost-efficient than regular screening. Harnessing routine data, which is ubiquitous and often underutilized, opens up substantial potential for developing new healthcare approaches. As such, our project goal was to utilize an extensive dataset from an insurance company to develop and evaluate predictive models for stroke and myocardial infarction in type 2 diabetes patients. 🎯</p>
+
+    <h2>🤖 Deep Learning: An Exploratory Sub-Project 🤖</h2>
+    <p>Moving beyond traditional regression and conventional machine learning approaches like logistic regression models with penalization, gradient boosting, and random forest used in the parent project "Moving to Next Generation Healthcare" (MNGHC-ML), our sub-project (MNGHC-DL) proposed a deep learning approach. Deep learning networks learn by detecting intricate patterns in the data, representing data at multiple levels of abstraction by constructing computational models composed of multiple processing layers. 📊</p>
+
+    <h2>🚀 Accomplishments and Skills 🚀</h2>
+    <p>As a Statistical Consultant, I successfully implemented and evaluated a deep learning algorithm for the prediction of stroke and myocardial infarction in claims data of diabetes patients. 💡 Our team went on to publish a corresponding research and analysis paper, thus contributing our findings to the broader scientific community. 📝</p>
+    <p>This project involved leveraging a range of skills including Statistical Modeling, Statistical Consulting, PyTorch, AI, Data Modeling, Jupyter, Scientific Writing, TensorFlow, Biostatistics, Scientific Analysis, Machine Learning, Statistics, Python, Deep Learning, and R. 💼</p>
+
+    <h2>📌 Next Steps and Future Developments 📌</h2>
+    <p>Our project's analysis plan, "Moving to Next Generation Healthcare: A Deep Learning Approach" (MNGHC-DL) by Bajramovic, Schosser et al., 2022, is accessible <a href="https://osf.io/wegkc">here</a>. 🌐 We are currently working on the full write-up of our paper, and I am thrilled to announce that it will be published soon! Keep an eye out for our future developments! 🎉</p>
+
+</body>
+</html>
