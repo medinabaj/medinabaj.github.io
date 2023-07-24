@@ -28,7 +28,7 @@ Over the years, dramatic changes in trading volumes and risk management practice
 In this project, I delved deep into Quantile Regression, a technique perfectly suited for estimating VaR and known for its robustness to extreme shocks. The project covers the basics of quantile regression and discusses the quantile treatment effect and equivariance, providing a thorough understanding of this robust risk management tool.
 
 ## 🎯 Contributions: New Approaches and Future Directions
-The project provides an in-depth exploration of different models and methodologies related to quantile regression and VaR. It presents and evaluates three key approaches: Exponential Weighted Moving Average (EWMA), Historical Simulation and the Quantile Regression approach. The paper concludes with possible future research directions in this area.
+The project provides an in-depth exploration of different models and methodologies related to quantile regression and VaR. It presents and evaluates three key approaches: Exponential Weighted Moving Average (EWMA), Historical Simulation and the Quantile Regression approach. The thesis concludes with possible future research directions in this area.
 
 ## 🧠 Skills and Acquired Knowledge
 Throughout this project I honed a range of skills including statistical modelling, financial analysis, R programming and risk management. The aim was to shed light on quantile regression as a robust risk management tool and its applications in financial markets.
