@@ -9,8 +9,6 @@ layout: page
 
 <h2>Skills</h2>
 
-<h2>Skills</h2>
-
 <ul class="skill-list">
     <h2>Programming Languages</h2>
     <li>R</li>

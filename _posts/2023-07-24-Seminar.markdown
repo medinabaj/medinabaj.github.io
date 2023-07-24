@@ -1,0 +1,44 @@
+---
+title: "🔬 Sensitivity Analysis in Clinical Research: A Seminar Exploration 📚"
+layout: post
+date: 2023-07-24
+tag:
+- Sensitivity Analysis
+- Clinical Research
+- Robustness
+- Methodology
+- Assumptions
+- Study Outcomes
+- Statistical Analysis
+headerImage: true
+projects: true
+hidden: false
+description: "Unraveling the World of Sensitivity Analysis in Clinical Research through a Seminar"
+category: project
+author: medinabajramovic
+externalLink: false
+---
+
+# 🎓 Sensitivity Analysis in Clinical Research: A Seminar Paper 🖊️
+**Institution:** Institut für Medizinische Informationsverarbeitung Biometrie und Epidemiologie (IBE), LMU Munich, Bavaria, Germany 📍
+**Duration:** April 2022 - September 2022 ⏳
+
+## 🌐 Seminar Background: Sensitivity Analysis
+
+Clinical research, despite its significance, has faced credibility issues recently due to conflicts of interest, incorrect interpretations, and flawed exploratory analysis. This has led to incorrect study outcomes and excessive medical waste. Sensitivity analysis is one potential solution to reduce medical waste and restore credibility to clinical studies. 
+
+The core of sensitivity analysis is to determine how variations in methodology, models, unmeasured variable values, or assumptions can affect the outcomes. This helps in recognizing outcomes heavily dependent on unsupported assumptions, and in assessing if any changes in these assumptions lead to alterations in the final interpretations or results 🔄. 
+
+## 🎯 Seminar Approach: Diving into the Depths of Sensitivity Analysis 
+
+In the seminar, I dove deep into sensitivity analysis, exploring its various aspects, its reporting mechanisms, and the different types that exist. The goal was to understand how sensitivity analysis can be employed to affirm the robustness of results, ensuring comprehensive understanding. 
+
+The seminar paper extensively covered different aspects such as the impact of outliers, non-compliance, protocol deviation, and missing data, among other factors. This in-depth analysis offered a nuanced understanding of sensitivity analysis's role in bolstering the credibility of clinical studies.
+
+## 🚀 Insights and Learnings 
+
+Through the seminar paper, I evaluated several studies, scrutinizing whether sensitivity analysis was needed, where it was performed, and if it was executed correctly. This endeavor provided me with valuable insights into the influence of assumptions on study outcomes and the critical role of sensitivity analysis in reducing medical waste and restoring credibility in clinical research.
+
+## 📌 Reflection and Takeaways 
+
+This seminar has been a rewarding journey, deepening my understanding of sensitivity analysis in clinical research. The knowledge and insights gained through the seminar paper have been invaluable. Stay tuned for more academic explorations and learnings! 🎉🔬
