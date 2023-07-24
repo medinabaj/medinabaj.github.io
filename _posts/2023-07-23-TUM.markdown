@@ -1,5 +1,5 @@
 ---
-title: "🎓 Undergraduate Research Assistant - Hackathon Analysis 📈"
+title: "📈 Decoding Success: An In-depth Hackathon Analysis "
 layout: post
 date: 2023-07-24
 tag:
