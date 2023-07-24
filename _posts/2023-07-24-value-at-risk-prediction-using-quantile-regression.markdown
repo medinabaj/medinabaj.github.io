@@ -20,7 +20,7 @@ externalLink: false
 
 # 🎓 Bachelor Thesis -On Value at Risk Prediction Using Quantile Regression Methods 
 **Institution:** Ludwig-Maximilians-Universität München, Munich, Germany 📍
-**Duration:** June 2022 - September 2022 ⏳
+**Duration:** June 2021 - September 2021 ⏳
 
 ## 🌐 A Changing Financial Landscape: The Evolution of Risk Management
 Over the years, dramatic changes in trading volumes and risk management practices in financial markets have necessitated the development of robust risk estimation tools. Value at Risk (VaR) has emerged as a key tool for estimating financial risk, but traditional VaR estimators often fall short when dealing with real data. The focus has therefore shifted to the development of more robust tools such as quantile regression.

@@ -17,7 +17,6 @@ layout: page
     <li>LaTeX</li>
 
     <h2>Biostatistics</h2>
-    <li>Biostatistics</li>
     <li>Research and Scientific Writing</li>
     <li>Hypothesis Testing</li>
     <li>Longitudinal Data Analysis</li>
