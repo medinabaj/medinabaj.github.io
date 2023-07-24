@@ -1,5 +1,5 @@
 ---
-title: "🎓 My Deep Dive into Open Science: A Three-Day Crash Course"
+title: "🔎 My Deep Dive into Open Science: A Three-Day Crash Course"
 layout: post
 date: 2023-07-24
 tag:
@@ -18,7 +18,7 @@ author: medinabajramovic
 externalLink: false
 ---
 
-# 🎓 A Three-Day Journey into the Heart of Open Science 
+# 🔎 A Three-Day Journey into the Heart of Open Science 
 
 With the ongoing reproducibility crisis in science and the increasing demand for transparency, it is clear that it is time for a paradigm shift. Open Science - a movement to make scientific research more accessible and transparent - is heralding this shift. However, understanding and adopting Open Science practices is a journey, one that I decided to embark on through a three-day crash course offered by the LMU Open Science Centre.
 ## 📚 The Crash Course Experience
