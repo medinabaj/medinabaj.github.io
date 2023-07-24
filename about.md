@@ -51,4 +51,13 @@ layout: page
 	<li><a href="_posts/2023-07-23-NGH.markdown">Next Generation Healthcare: A Deep Learning Approach</a></li>
 	<li><a href="_posts/2023-07-23-TUM.markdown">Decoding Success: An In-depth Hackathon Analysis </a></li>
 	<li><a href="_posts/2023-07-24-Bachelorthesis.markdown">On Value at Risk Prediction Using Quantile Regression Methods</a></li>
+	<li><a href="_posts/2023-07-24-CrashCourse.markdown">Deep Dive into Open Science: A Three-Day Crash Course</a></li>
+	<li><a href="_posts/2023-07-24-Seminar.markdown">Sensitivity Analysis in Clinical Research: A Seminar Exploration</a></li>
+</ul>
+
+
+<h2>Blog</h2>
+ul>
+	<li><a href="_posts/2023-07-24-StatisticsandDataScience.markdown">Differential Growth Curve Analysis</a></li>
+	<li><a href="_posts/2023-07-23-Biostatistics.markdown">Mastering Biostatistics: Deep Dive Into My Specialization Courses</a></li>
 </ul>
