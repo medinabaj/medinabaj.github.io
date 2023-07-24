@@ -21,6 +21,7 @@ externalLink: false
 
 # 🎓 Sensitivity Analysis in Clinical Research: A Seminar Paper 
 **Institution:** Institut für Medizinische Informationsverarbeitung Biometrie und Epidemiologie (IBE), LMU Munich, Bavaria, Germany 📍
+
 **Duration:** April 2022 - September 2022 ⏳
 
 ## 🌐 Seminar Background: Sensitivity Analysis
