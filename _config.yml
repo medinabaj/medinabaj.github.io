@@ -3,7 +3,7 @@ title: Medina Bajramovic
 bio: As an enthusiastic Data Scientist pursuing a Master's in Statistics and Data Science at Ludwig-Maximilians-Universität München, I've harnessed my skills to develop a growth curve analysis program in R, predict diseases via deep learning, and dive into business analytics at BMW Group. When not crunching numbers, I'm tending to my houseplants or furthering my proficiency in R and Python. Passionate about translating complex data into actionable insights, I'm ready to tackle challenges, one dataset (and coffee) at a time.
 
 # twitter summary info
-description: A blog about technology and stuff related
+# description: A blog about technology and stuff related
 
 # if it's an external image, update below for true
 # better with square images
@@ -53,7 +53,7 @@ authors:
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
 # normal = 560px / large = 810px
-width: normal
+width: large
 
 # if you do/don't need pagination, toggle 'enabled' between true/false below
 pagination:
