@@ -59,6 +59,6 @@ layout: page
 <h2>Blog</h2>
 
 <ul>
-    <li><a href="_posts/2023-07-24-StatisticsandDataScience.markdown">Differential Growth Curve Analysis</a></li>
+    <li><a href="_posts/2023-07-24-StatisticsandDataScience.markdown">My Journey in Master of Statistics and Data Science: Unveiling The Learnings</a></li>
     <li><a href="_posts/2023-07-24-Biostatistics.markdown">Mastering Biostatistics: Deep Dive Into My Specialization Courses</a></li>
 </ul>
