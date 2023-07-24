@@ -47,12 +47,12 @@ layout: page
 <h2>Projects</h2>
 
 <ul>
-	<li><a href="_posts/2023-07-24-differentialgrowth.markdown">Differential Growth Curve Analysis</a></li>
-	<li><a href="_posts/2023-07-23-NGH.markdown">Next Generation Healthcare: A Deep Learning Approach</a></li>
-	<li><a href="_posts/2023-07-23-TUM.markdown">Decoding Success: An In-depth Hackathon Analysis </a></li>
-	<li><a href="_posts/2023-07-24-Bachelorthesis.markdown">On Value at Risk Prediction Using Quantile Regression Methods</a></li>
-	<li><a href="_posts/2023-07-24-CrashCourse.markdown">Deep Dive into Open Science: A Three-Day Crash Course</a></li>
-	<li><a href="_posts/2023-07-24-Seminar.markdown">Sensitivity Analysis in Clinical Research: A Seminar Exploration</a></li>
-    <li><a href="_posts/2023-07-24-StatisticsandDataScience.markdown">My Journey in Master of Statistics and Data Science: Unveiling The Learnings</a></li>
-    <li><a href="_posts/2023-07-24-Biostatistics.markdown">Mastering Biostatistics: Deep Dive Into My Specialization Courses</a></li>
+	<li><a href="differential-growth-curve-analysis">Differential Growth Curve Analysis</a></li>
+	<li><a href="next-generation-healthcare">Next Generation Healthcare: A Deep Learning Approach</a></li>
+	<li><a href="decoding-success-analysis">Decoding Success: An In-depth Hackathon Analysis </a></li>
+	<li><a href="value-at-risk-prediction-using-quantile-regression">On Value at Risk Prediction Using Quantile Regression Methods</a></li>
+	<li><a href="crash-course-open-science">Deep Dive into Open Science: A Three-Day Crash Course</a></li>
+	<li><a href="sensitivity-analysis-in-clinical-research">Sensitivity Analysis in Clinical Research: A Seminar Exploration</a></li>
+    <li><a href="my-statistics-journey">My Journey in Master of Statistics and Data Science: Unveiling The Learnings</a></li>
+    <li><a href="biostatistics-specialization-courses">Mastering Biostatistics: Deep Dive Into My Specialization Courses</a></li>
 </ul>
