@@ -1,0 +1,37 @@
+---
+title: "🎓 Undergraduate Research Assistant - Hackathon Analysis 📈"
+layout: post
+date: 2023-07-24
+tag:
+- R
+- Statistical Analysis
+- Research
+- Statistical Modeling
+- Scientific Writing
+#image: https://borhenryk.github.io/henryk_githubpage/assets/images/gan.png
+headerImage: true
+projects: true
+hidden: false # don't count this post in blog pagination
+description: "Statistical Analysis of Hackathons"
+category: project
+author: medinabajramovic
+externalLink: false
+---
+
+# 🎓 Undergraduate Research Assistant - Unveiling Learning Outcomes in Hackathons 📚
+
+**Role:** Undergraduate Research Assistant
+**Duration:** April 2022 - September 2022 (6 months) ⏳
+
+## 🌐 Project Background: Hackathon 
+Hackathons are intensive, time-bound events that unite coders, designers, and other professionals to collaborate on software projects, fostering innovation and learning. The purpose of this research was to examine these events in depth, looking at their role in the tech industry, their challenges and benefits. While hackathons offer a platform to create real-world solutions, learn new skills, and network, they present potential difficulties such as time constraints, resource limitations, and team stress. Through evaluating factors like innovation and viability of prototypes, skill acquisition, networking opportunities, and participant satisfaction, this study seeks to understand how hackathons function as a versatile and essential tool in the tech industry despite these challenges.🧩
+
+## 🎯 Our Approach: Metrics for Product Development Progress 
+In my role as an Undergraduate Research Assistant, I put my skills in Statistical Analysis, Statistical Modeling, Data Analysis, and the R programming language to use, conducting a scientific analysis and crafting metrics to evaluate success. Alongside this, I implemented forecast approaches based on prototyping success, providing a practical way to predict and evaluate the outcomes of hackathon efforts. 
+
+## 🚀 Contributions and Achievements 
+Throughout the project, I worked collaboratively with a research team to study hackathons and their impact on the learning process. My contributions included performing detailed statistical analyses, creating data models to forecast prototyping success, and ultimately, co-authoring a research paper on the subject. This paper not only shared our findings with the broader academic community but also illustrated the complex interplay between product focus and learning outcomes in hackathons. 📝
+
+## 📌 Next Steps and Future Developments 📌
+As we move forward, our research paper is currently under review for publication. Keep an eye out for this upcoming paper 🎉
+
