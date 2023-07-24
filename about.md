@@ -51,6 +51,6 @@ layout: page
 <ul>
 	<li><a href="_posts/2023-07-24-differentialgrowth.markdown">Differential Growth Curve Analysis</a></li>
 	<li><a href="_posts/2023-07-23-NGH.markdown">Next Generation Healthcare: A Deep Learning Approach</a></li>
-	<li><a href="_posts/2023-07-23-TUM.markdown">Hackathon Analysis</a></li>
+	<li><a href="_posts/2023-07-23-TUM.markdown">Decoding Success: An In-depth Hackathon Analysis </a></li>
 	<li><a href="_posts/2023-07-24-Bachelorthesis.markdown">On Value at Risk Prediction Using Quantile Regression Methods</a></li>
 </ul>
