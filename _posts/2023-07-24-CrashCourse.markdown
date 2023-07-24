@@ -10,7 +10,7 @@ tag:
 - Statistics
 - Data Sharing
 headerImage: true
-blog: true
+projects: true
 hidden: false
 description: "My experience navigating the realm of Open Science through a comprehensive crash course"
 category: blog

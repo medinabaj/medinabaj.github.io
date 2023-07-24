@@ -9,7 +9,7 @@ tag:
 - Statistical Inference
 #image: https://borhenryk.github.io/henryk_githubpage/assets/images/gan.png
 headerImage: true
-blog: true
+projects: true
 hidden: false # don't count this post in blog pagination
 description: "A deep dive into my educational journey, highlighting the key learnings from my Master's in Statistics and Data Science."
 category: blog

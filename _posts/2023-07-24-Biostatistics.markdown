@@ -11,7 +11,7 @@ tags:
 - Preclinical and Clinical Studies
 #image: https://borhenryk.github.io/henryk_githubpage/assets/images/gan.png
 headerImage: true
-blog: true
+projects: true
 hidden: false # don't count this post in blog pagination
 description: "Exploring the specialized courses from my Biostatistics curriculum that shaped my expertise in analyzing biological data and epidemiological studies."
 category: blog
