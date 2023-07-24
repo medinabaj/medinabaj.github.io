@@ -4,36 +4,32 @@ layout: page
 ---
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
-<p>Lorem Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>As an enthusiastic Data Scientist pursuing a Master's in Statistics and Data Science at Ludwig-Maximilians-Universität München, I've harnessed my skills to develop a growth curve analysis program in R, predict diseases via deep learning, and dive into business analytics at BMW Group. When not crunching numbers, I'm tending to my houseplants or furthering my proficiency in R and Python. Passionate about translating complex data into actionable insights, I'm ready to tackle challenges, one dataset (and coffee) at a time.</p>
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 
 <h2>Skills</h2>
 
 <ul class="skill-list">
-	<li>HTML - Jade - Haml - Erb</li>
-	<li>Responsive (Mobile First)</li>
-	<li>CSS (Stylus, Sass, Less)</li>
-	<li>Css Frameworks (Bootstrap, Foundation)</li>
-	<li>Javascript (Design Patterns, Testes)</li>
-	<li>AngularJS - ReactJS</li>
-	<li>Grunt - Gulp - Yeoman</li>
-	<li>Git</li>
-	<li>PHP</li>
+    <h2>Programming Languages</h2>
+	<li>R</li>
 	<li>Python</li>
-	<li>MySQL - MongoDB</li>
-	<li>Scrum and Kanban</li>
-	<li>TDD e Continuous Integration</li>
+    <li>Matlab</li>
+
+    <h2>Biostatistics and Research Skills</h2>
+    <li>Biostatistics</li>
+    <li>Research and Scientific Writing</li>
+    
+    <h2>Data Science Skills</h2>
+	<li>Statistical Modeling: LM, GLM, PCA, ARIMA</li>
+    <li>Machine Learning: Supervised Learning, Gaussian Process</li>
+    <li>Deep Learning frameworks: Tensorflow, Keras, PyTorch</li>
+    <li>Data Analysis: High-Dimensional Data, Time-series</li>
+    
+    <h2>Software Development</h2>
+    <li>Git</li>
+    
+    <h2>Other Skills</h2>
+    <li>Financial Accounting</li>
 </ul>
 
 <h2>Projects</h2>
