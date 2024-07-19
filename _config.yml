@@ -1,6 +1,6 @@
 # main text of home
 title: Medina Bajramovic
-bio: As an enthusiastic Data Scientist pursuing a Master's in Statistics and Data Science at Ludwig-Maximilians-Universität München, I've harnessed my skills to develop a growth curve analysis program in R, predict diseases via deep learning, and dive into business analytics at BMW Group. When not crunching numbers, I'm tending to my houseplants or furthering my proficiency in R and Python. Passionate about translating complex data into actionable insights, I'm ready to tackle challenges, one dataset (and coffee) at a time.
+bio: As an enthusiastic Data Scientist at Helmholtz Munich seeking a PhD in Computational Biology, I've used my abilities to create an R software for growth curve analysis or use deep learning to forecast diseases. When I'm not crunching data, I'm taking care of my houseplants or improving my knowledge of Python and R. With a strong desire to convert intricate data into practical insights, I'm prepared to take on issues one dataset (and cup of coffee) at a time.
 
 # twitter summary info
 # description: A blog about technology and stuff related
@@ -34,21 +34,23 @@ disqus:
   categories: [] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-#facebook: myfacebook
-#twitter: mytwitter
-#instagram: myinstagram
+# facebook: myfacebook
+# twitter: mytwitter
+# instagram: myinstagram
 linkedin: bajramovic-medina
 github: medinabaj
-#email: myemail@gmail.com
+google_scholar: yxBvMB8AAAAJ
+email: mailMedinabajramovic.de
+
+# email: myemail@gmail.com
 
 authors:
   medinabajramovic:
     name: Medina Bajramovic
-    bio: Passionate Data Scientist and Biostatistician
+    bio: Data Scientist and Biostatistician
     external-image: false
     picture: assets/images/profile.jpg
-    #twitter: johndoe
- 
+    # twitter: johndoe
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
@@ -68,7 +70,10 @@ projects: true
 
 # if you don't need "about" or "blog", comment them out below
 about: true
-# blog: true
+collections:
+  publications:
+    output: true
+    permalink: /publications/:title/
 
 # do you want to show the "read time" of the posts?
 read-time: true
@@ -112,10 +117,8 @@ compress_html:
       - stage
 
 exclude:
-  [
-    "README.md",
-    "Gemfile",
-    "Gemfile.lock",
-    "FAQ.md",
-    "vendor",
-  ]
+  - "README.md"
+  - "Gemfile"
+  - "Gemfile.lock"
+  - "FAQ.md"
+  - "vendor"
