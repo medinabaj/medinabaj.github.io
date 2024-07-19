@@ -18,6 +18,7 @@ dark-theme: auto
 # and specify source (external or local).
 resume: true
 resume-external: false
+resume-url: "resume/"
 # resume-url: https://google.com/?q=my+resume
 
 url: https://medinabaj.github.io
