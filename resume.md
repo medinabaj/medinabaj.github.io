@@ -6,14 +6,13 @@ permalink: /resume/
 
 <section class="resume">
   <h1>Resume</h1>
-  
   <h2>Summary</h2>
   <p>As an enthusiastic Data Scientist pursuing a Master's in Statistics and Data Science at Ludwig-Maximilians-Universität München, I've harnessed my skills to develop a growth curve analysis program in R, predict diseases via deep learning, and dive into business analytics at BMW Group. When not crunching numbers, I'm tending to my houseplants or furthering my proficiency in R and Python. Passionate about translating complex data into actionable insights, I'm ready to tackle challenges, one dataset (and coffee) at a time.</p>
 
   <h2>Professional & Academic Experience</h2>
   <ul>
     <li>
-      <h3>PhD student in Microbial Data Science</h3>
+      <h3>Researcher in Microbial Data Science</h3>
       <p><strong>Institution:</strong> ICB Institute of Computational Biology (Helmholtz Center Munich)</p>
       <p><strong>Period:</strong> April 2024 – Present</p>
       <p>Utilizing optimal transport theory and autoencoders to establish connections between single-cell RNA sequencing data and flow cytometry data, thereby advancing understanding of microbial behaviour at a cellular level.</p>
@@ -90,20 +89,11 @@ permalink: /resume/
     <li>Problem Solving: Quick and creative solutions</li>
   </ul>
 
-  <h2>Publications</h2>
-  <ul>
-    <li>Degrowth - Using Gaussian Processes for Bacterial Growth Curve Analysis in R, Bajramovic, Olayo et al., 2024 - Manuscript in preparation</li>
-    <li>Development and validation of prediction models for stroke and myocardial infarction in type 2 diabetes patients based on German health insurance claims data – Do modern machine learning methods outperform traditional regression approaches? Stephan et al., 2023 – Manuscript in submission</li>
-    <li>Pre-trained molecular representations can aid antimicrobial discovery, Olayo et al., 2023 – Manuscript in submission</li>
-    <li>Learning by Doing? The relationship between effort, learning effect, and product quality during hackathons of novice teams, Martins Pacheco et al., 2023 - Cambridge University Press</li>
-    <li>Moving to Next Generation Healthcare: A Deep Learning Approach (MNGHC-DL), Bajramovic, Schosser et al., 2022 - Development Plan</li>
-  </ul>
-
   <h2>Honors and Awards</h2>
   <ul>
     <li>Deutschlandstipendium</li>
     <li>Best Master’s Thesis in Statistics</li>
   </ul>
 
-</section>
 
+</section>
